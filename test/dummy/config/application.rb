@@ -3,7 +3,7 @@ require File.expand_path('../boot', __FILE__)
 require 'rails/all'
 
 Bundler.require
-require "no-ie6-rails"
+require "no-ie7-rails"
 
 module Dummy
   class Application < Rails::Application

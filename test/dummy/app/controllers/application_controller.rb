@@ -1,4 +1,4 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery
-  helper NoIe6Rails::Engine.helpers
+  helper NoIe7Rails::Engine.helpers
 end
