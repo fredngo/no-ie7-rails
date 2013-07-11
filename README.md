@@ -1,7 +1,7 @@
 no-ie7-rails
 =
 
-no-ie7-rails is a simple rails extension that checks if client has IE7 browser, and displays small (and closable) overlay, suggesting to update browser to a modern one.
+no-ie7-rails is a simple rails extension that checks if client has IE7 browser or less, and displays small (and closable) overlay, suggesting to update browser to a modern one.
 
 
 Install (Rails 3.1.x)
